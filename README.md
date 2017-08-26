@@ -1,4 +1,4 @@
-# EM0JIJB
+# EM0J1JB
 iOS 11 Jailbreak Concept
 ========================
 My version applies from ios 10 and up. You can always change it to iOS 8 and higher.
